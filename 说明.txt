@@ -1,0 +1,2 @@
+在main.cpp的main函数中示例了RtmpPusher类的调用流程。
+在代码中使用了windows下的api，不知道在qt环境下能否编译：TextToUtf8、_beginthreadex

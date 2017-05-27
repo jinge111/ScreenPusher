@@ -1,0 +1,13 @@
+﻿  main.cpp
+  RtmpPusher.cpp
+g:\smartclass\screenpusher\stringfunc.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+g:\smartclass\screenpusher\rtmppusher.cpp(202): warning C4018: “<”: 有符号/无符号不匹配
+g:\smartclass\screenpusher\rtmppusher.cpp(329): warning C4305: “=”: 从“double”到“float”截断
+g:\smartclass\screenpusher\rtmppusher.cpp(574): warning C4244: “=”: 从“int64_t”转换到“int”，可能丢失数据
+g:\smartclass\screenpusher\rtmppusher.cpp(577): warning C4244: “=”: 从“int64_t”转换到“int”，可能丢失数据
+g:\smartclass\screenpusher\rtmppusher.cpp(581): warning C4244: “=”: 从“int64_t”转换到“int”，可能丢失数据
+g:\smartclass\screenpusher\rtmppusher.cpp(656): warning C4244: “=”: 从“int64_t”转换到“int”，可能丢失数据
+  LogModule.cpp
+  正在生成代码...
+  simplest_ffmpeg_streamer.vcxproj -> G:\SmartClass\ScreenPusher\Debug\simplest_ffmpeg_streamer.exe
+  simplest_ffmpeg_streamer.vcxproj -> G:\SmartClass\ScreenPusher\Debug\simplest_ffmpeg_streamer.pdb (Full PDB)
